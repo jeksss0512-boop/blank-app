@@ -15,7 +15,7 @@ with col1:
 
 with col2:
     st.subheader("이름: 정은경")
-    st.write("**수학강사:** 대학원생")
+    st.write("**하는 일:** 대학원생")
     st.write("**관심분야:** Problem Solving, digital tools, chatbot")
 
 st.divider()
